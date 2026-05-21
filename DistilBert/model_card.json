@@ -1,0 +1,23 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "task": "multiclass-sentiment-analysis",
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "num_classes": 3,
+  "max_seq_length": 128,
+  "learning_rate": 2e-05,
+  "train_batch_size": 64,
+  "eval_batch_size": 128,
+  "epochs_trained": 3.0,
+  "best_validation_metric": 0.7595806266196803,
+  "fp16": true,
+  "train_samples": 240000,
+  "validation_samples": 30000,
+  "test_samples": 30000,
+  "dataset": "ecommerce-reviews-cleaned-914k",
+  "framework": "HuggingFace Transformers",
+  "saved_at": "2026-05-17 16:28:34"
+}
