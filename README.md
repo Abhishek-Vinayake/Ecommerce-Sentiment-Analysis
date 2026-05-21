@@ -206,7 +206,7 @@ Potential future experiments:
 
 Dataset published on Kaggle:
 
-Add your dataset link here.
+[Add your dataset link here.](https://www.kaggle.com/datasets/abhishekvinayake/ecommerce-sentiment-dataset-900k)
 
 ---
 
